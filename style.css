@@ -35,11 +35,11 @@ body {
     width: 100vw;
     height: 100vh;
     font-size: 50px;
-    color: rgba(255, 255, 255, 0.836);
+    color: black;
 
     position: absolute;
-    top: 80px;
-    left: 450px;
+    top: 20px;
+    left: 500px;
 
     
     
@@ -49,8 +49,8 @@ body {
     width: 100%;
     height: 100%;
     position: absolute;
-    top: -100px;
-    left: -460px;
+    top: -30px;
+    left: -510px;
 }
 
 
